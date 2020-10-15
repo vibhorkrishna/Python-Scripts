@@ -25,7 +25,7 @@ Missing person last seen location:
 ```
 Sample Input:
 
-![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/Sample%20Input.PNG?raw=true)
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missing%20Person%20Poster/Sample%20Input.PNG)
 
 You will also be asked to enter the name of the image of the missing person.
 
@@ -34,10 +34,10 @@ A sample of images are present on the folder ```Sample Profile Pics``` for you t
 
 Sample Input:
 
-![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/Sample%20Profile%20Pics/profile.jpg)
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missing%20Person%20Poster/Sample%20Profile%20Pics/profile.jpg)
 
 Sample Output:
 
-![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/MissingPersonPoster%20-%20Sample%20Output.png)
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missing%20Person%20Poster/MissingPersonPoster%20-%20Sample%20Output.png)
 
 #### Note: Your poster will be saved on the same directory as the python script
