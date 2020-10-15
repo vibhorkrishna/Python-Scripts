@@ -1,6 +1,6 @@
 
 # Missing Person Poster
-A python program that automatically generates a missing person poster when details of the missing person are entered
+A python program that automatically generates a missing person poster when details of the missing person are entered.
 ## Installing the Dependencies:
 Install the packages that are missing from your computer. You will know which packages are missing when you run the python script.
 
@@ -24,17 +24,20 @@ Weight of missing person:
 Missing person last seen location:
 ```
 Sample Input:
-```
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-```
+
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/Sample%20Input.PNG?raw=true)
+
 You will also be asked to enter the name of the image of the missing person.
 
 A sample of images are present on the folder ```Sample Profile Pics``` for you to test out.
 #### Note: Make sure that the image of the person is in same directory as the python script
 
 Sample Input:
-![Alt text](Sample Input.png?raw=true "Title")
+
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/Sample%20Profile%20Pics/profile.jpg)
+
 Your poster will be saved on the same directory as the python script
 
 Sample Output:
-![Alt text](Sample Profile Pics/profile.jpg?raw=true "Title")
+
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/MissingPersonPoster%20-%20Sample%20Output.png)
