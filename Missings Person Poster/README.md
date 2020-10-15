@@ -36,8 +36,8 @@ Sample Input:
 
 ![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/Sample%20Profile%20Pics/profile.jpg)
 
-Your poster will be saved on the same directory as the python script
-
 Sample Output:
 
 ![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missings%20Person%20Poster/MissingPersonPoster%20-%20Sample%20Output.png)
+
+#### Note: Your poster will be saved on the same directory as the python script
