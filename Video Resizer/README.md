@@ -13,6 +13,8 @@ Sample Input:
 ```
 Enter the name of the video file: test.mp4
 Enter the new Resolution of the video you want: 1280x720
+Enter the bitrate of video stream: 8M
+Enter the bitrate of audio stream: 2M
 ```
 Your video will be resized.
 
