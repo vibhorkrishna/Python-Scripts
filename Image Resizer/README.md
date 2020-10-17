@@ -23,7 +23,7 @@ Enter 1 or 2: 2
 Enter the scale percentage: 50
 ```
 
-![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missing%20Person%20Poster/Sample%20Profile%20Pics/profile.jpg)
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Image%20Resizer/sample_input.jpg?raw=true)
 
 Sample Output:
 
@@ -31,6 +31,6 @@ Sample Output:
 Original Dimensions :  (800, 800, 3)
 Resized Dimensions :  (400, 400, 3)
 ```
-![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Missing%20Person%20Poster/MissingPersonPoster%20-%20Sample%20Output.png)
+![Alt text](https://github.com/vibhorkrishna/Python-Scripts/blob/main/Image%20Resizer/Output.PNG?raw=true)
 
 #### Note: Your resized image will be saved on the same directory as the python script
